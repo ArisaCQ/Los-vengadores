@@ -6,3 +6,4 @@
 4. Huancavelica
 5. Huancayo
 6. Ayacucho
+7. Ica

@@ -9,3 +9,5 @@ Pueden hacer lo que quieran...
 # The Untamed
 Wei Wuxiang
 Lang Wanji
+Xiao Zhan 
+Wang Yibo
